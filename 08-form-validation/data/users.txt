@@ -1,0 +1,3 @@
+username:jfrischmuth|email:j.frischmuth@sae.edu|password:cfb69943a4c0b5158089ce8836e627da|gender:male|country:germany
+username:johninamio|email:jfrischmuth@sae.edu|password:b2a4ab9ab426ed9375e9fc718a96ff15|gender:male|country:germany
+username:jfrischmuth1|email:jfrischmuth1@sae.edu|password:b2a4ab9ab426ed9375e9fc718a96ff15|gender:male|country:germany
