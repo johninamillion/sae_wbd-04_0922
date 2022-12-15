@@ -1,0 +1,6 @@
+{
+    "name": "sae/wbd04_0922",
+    "require-dev": {
+        "gettext/php-scanner": "^1.3"
+    }
+}
